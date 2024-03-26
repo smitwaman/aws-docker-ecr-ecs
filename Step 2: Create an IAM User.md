@@ -20,3 +20,6 @@ Click on create access key
 
 Download .csv file which contain access key and secret access key
 
+![](https://github.com/smitwaman/aws-docker-ecr-ecs/blob/main/images/Step-2/17114260224329076504824490462517.jpg)
+
+![](https://github.com/smitwaman/aws-docker-ecr-ecs/blob/main/images/Step-2/17114260360724108720800930203411.jpg)
