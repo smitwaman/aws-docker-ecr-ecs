@@ -1,6 +1,7 @@
 In AWS management console, Go to IAM service, create an IAM user
 
 
+
 Attach policies to the user
 
 
