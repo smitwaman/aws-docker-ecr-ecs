@@ -16,7 +16,7 @@ Go to security credentials
 
 Click on create access key
 
-
+![](https://github.com/smitwaman/aws-docker-ecr-ecs/blob/main/images/Step-2/17114259968835904403417671143004.jpg)
 
 Download .csv file which contain access key and secret access key
 
