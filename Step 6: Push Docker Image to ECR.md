@@ -1,12 +1,13 @@
 1. Go back to the AWS Management Console.
-
+![](https://github.com/smitwaman/aws-docker-ecr-ecs/blob/main/images/Step-6/17114261324044180331917827003518.jpg)
 2. In the Amazon ECR console, select your repository from the list.
+![](https://github.com/smitwaman/aws-docker-ecr-ecs/blob/main/images/Step-6/17114261392165067637786468109800.jpg)
+3.In the repository details, click the “View push commands” button.
 
-3. In the repository details, click the “View push commands” button.
-
-
+![](https://github.com/smitwaman/aws-docker-ecr-ecs/blob/main/images/Step-6/17114261467272694216887440455885.jpg)
 4. Follow the provided instructions to authenticate Docker with your ECR registry and push your Docker image.
 
+![](https://github.com/smitwaman/aws-docker-ecr-ecs/blob/main/images/Step-6/17114261535823995220227712914303.jpg)
 
 Retrieve an authentication token and authenticate your Docker client to your registry. Use the AWS CLI:
 
