@@ -3,9 +3,9 @@ This project has explanation of how to build Dockerimage and push it to ECR.
 For clear vision to AWS 
 Lets follow following steps.
 
-Step1 : Set up AWS CLI
+Step 1 : Set up AWS CLI
 
-Step2: Create an IAM User
+Step 2: Create an IAM User
 
 Step 3: Configure AWS CLI
 
